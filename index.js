@@ -71,4 +71,4 @@ client.on("ready", () => {
     console.log(`Giriş, ${client.user.tag}! ByCan`);
 });
 
-client.login("Nzk0NTg3MzYxMDU2NTIyMjQw.X-8_JQ.nxXqgoGutHm9Z5GbN9rnqqWNG34");
+client.login("token");
